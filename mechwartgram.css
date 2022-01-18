@@ -1,0 +1,35 @@
+#kep{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color:lightgray;
+    margin: 60px auto;
+
+}
+
+
+
+.adatok{
+    padding: 60px;
+}
+
+
+
+.kep{
+    width: 200px;
+    height: 200px;
+    background-color:lightgray;
+    margin: 10px auto;
+}
+
+
+.container{
+    max-width: 700px;
+}
+
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
